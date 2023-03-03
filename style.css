@@ -1,0 +1,46 @@
+.img1 {
+    width: 8rem;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+img{
+    width: 10rem;
+}
+
+header{
+    min-height: 9vh;
+}
+
+main{
+    background-color: rgb(255, 135, 171);
+    min-height: 82vh;
+}
+
+footer{
+    min-height: 9vh;
+    background-color:rgb(255, 135, 171) ;
+}
+.icono {
+    width: 3rem;
+}
+.category {
+    margin-left: 2rem;
+}
+.card{
+    margin: 1rem;
+}
+.atr {
+    margin-top: 100rem;
+}
+.color {
+    background-color: rgb(252, 200, 194);
+}
+.search{
+    width: 70%;
+}
